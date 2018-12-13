@@ -1,6 +1,6 @@
 {
   "name": "globalconnect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Global Connect Web Application",
   "main": "index.js",
   "scripts": {
